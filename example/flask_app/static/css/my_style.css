@@ -1,0 +1,53 @@
+body {
+    width: 99%;
+    height: 99%;
+    /* background-color: pink; */
+}
+
+.container {
+    /* display: flex; */
+    justify-content:left;
+    width: 100%;
+    height: 90%;
+
+    width: 90%;
+    height: 90%;
+}
+
+H1 {
+    color: blue;
+}
+
+.login-header {
+    color: green;
+}
+
+.btn-login {
+    background-color: green;
+}
+
+.panel-left {
+    background-color: black;
+    color: wheat;
+    margin-left: 175px;
+    margin-right: 200px;
+    padding: 40px 40px;
+    width: 50%;
+}
+
+.panel-right {
+    background-color: black;
+    color: wheat;
+    height: 400px;
+    margin-left: 80px;
+    margin-right: 100px;
+    padding: 40px 40px;
+    width: 50%;
+    
+}
+
+
+
+.btn-primary {
+    width:fit-content;
+}

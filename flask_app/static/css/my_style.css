@@ -1,0 +1,106 @@
+body {
+    width: 99%;
+    height: 99%;
+    /* background-color: pink; */
+}
+
+.container {
+    justify-content: center;
+    height: 90%;
+    margin-top: 40px;
+    width: 90%;
+}
+
+.banner {
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;;
+
+}
+
+H1 {
+    color: blue;
+}
+
+.wall {
+    flex-direction: center;
+    margin: auto;
+    width: 90%;
+}
+
+.form-control {
+    border: none;
+}
+
+.wall-post {
+    border: solid 1px black;
+}
+
+.post-label {
+    margin: 20px 0 20px 0;
+}
+
+.login-header {
+    color: green;
+}
+
+.btn-logout {
+    margin-left: 40px;
+}
+
+.btn-login {
+    background-color: green;
+}
+
+.panel-left {
+    background-color: rgb(236, 222, 222);
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 40px 40px;
+    width: 50%;
+}
+
+.panel-right {
+    background-color: black;
+    color: wheat;
+    height: 400px;
+    margin-left: 80px;
+    margin-right: 100px;
+    padding: 40px 40px;
+    width: 50%;
+    
+}
+
+.btn-post {
+    margin-top: 10px;
+}
+
+.btn-delete {
+    margin-top: 0;
+}
+
+.btn-primary {
+    width:fit-content;
+}
+
+.comment-collection {
+    border-top: 2px solid black;
+    margin-top: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    width: 100%;
+}
+
+.comment-headers {
+    margin-right: 20px;
+}
+
+.comment {
+    width: 100%;
+}
+
+.comment-content {
+    margin-left: 20px;
+    width: 100%;
+}
